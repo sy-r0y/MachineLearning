@@ -3,7 +3,8 @@ Week 1 Lecture 1
 - Machine Learning grew out of Artificial Intelligence.
 - Provides new capabilities to the computers.
 
-Exmp - 1. Database Mining.
+Exmp
+     - 1. Database Mining.
        	   Large dataset from growth of automation/web.
 
      - 2. Natural Language Processing.
@@ -43,9 +44,8 @@ Example:
 - Discrete problem: Email software, examines individual customer accounts & for each customer account decides if it has been hacked/compromised.
 
 
-Unsupervised learning expl - 
+Unsupervised learning expl (CLUSTERING)- 
 
-1. Clustering
 
   -   Google News: every day google crawler goes through thousands of news articles, the crawler finds patterns in many aricles similar to other articles. then its ml algo decides to create a CLUSTER of such similar article.
   
